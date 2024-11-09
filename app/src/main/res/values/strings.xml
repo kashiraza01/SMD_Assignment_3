@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment 3 (21L-5751) </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello This is Blank</string>
+    <string-array name="autocomplete_options">
+    <item>New</item>
+    <item>Delivered</item>
+    <item>Scheduled</item>
+</string-array>
+</resources>
